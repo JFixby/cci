@@ -1,5 +1,5 @@
 
-package com.jfixby.cci;
+package com.jfixby.cci.sort.merge;
 
 public class MergeSort {
 
